@@ -19,3 +19,4 @@ elif rentalMotor == motorTrail:
     print("harga motor trail adalah", hargaMotorTrail)
 else:
     print("harga motor sport adalah", hargaMotorSport)
+    
