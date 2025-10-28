@@ -20,3 +20,4 @@ for i in range(kesempatan):
 
 else:
     print("Akses ditolak, kartu diblokir")
+    

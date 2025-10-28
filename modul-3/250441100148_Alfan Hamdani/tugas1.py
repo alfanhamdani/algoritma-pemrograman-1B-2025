@@ -10,3 +10,4 @@ for i in range(2, n + 1): #mengecek setiap angka dari 2 sampai n
             break
     if prima:
         print(i)
+        

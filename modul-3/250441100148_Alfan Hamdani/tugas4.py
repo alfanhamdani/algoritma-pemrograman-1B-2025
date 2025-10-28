@@ -34,3 +34,4 @@ while ulang == "y":
     ulang = input("Apakah ada pembeli berikutnya? (y/n): ").lower()
 
 print("Program selesai. Sampai jumpa!")
+
